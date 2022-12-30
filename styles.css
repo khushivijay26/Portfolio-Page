@@ -7,7 +7,7 @@
   --font-semi: 600;
 }
 
-/*===== Colores =====*/
+/*===== Colors =====*/
 :root {
   --first-color: #4070F4;
   --second-color: #0E2431;
@@ -108,7 +108,7 @@ a {
   padding-bottom: 2rem;
 }
 
-//===== LAYOUT =====//
+/*===== LAYOUTS ===== */
 .bd-grid {
   max-width: 1024px;
   display: grid;
@@ -234,6 +234,8 @@ a {
 /* ===== ABOUT =====*/
 .about__container {
   row-gap: 2rem;
+  margin-left: 12rem;
+  margin-right: 12rem;
 }
 
 /* ===== SKILLS =====*/
@@ -468,6 +470,7 @@ a {
   }
 
   .about__container {
-    
+    margin-left: 2rem;
+    margin-right: 1.5rem;
   }
 }
