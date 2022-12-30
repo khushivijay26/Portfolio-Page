@@ -234,8 +234,6 @@ a {
 /* ===== ABOUT =====*/
 .about__container {
   row-gap: 2rem;
-  margin-left: 12rem;
-  margin-right: 12rem;
 }
 
 /* ===== SKILLS =====*/
@@ -470,7 +468,6 @@ a {
   }
 
   .about__container {
-    margin-left: 2rem;
-    margin-right: 1.5rem;
+    
   }
 }
