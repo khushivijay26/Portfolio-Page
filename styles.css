@@ -238,6 +238,11 @@ a {
   margin-right: 12rem;
 }
 
+.about__text {
+  margin-left: 12rem;
+  margin-right: 12rem;
+}
+
 /* ===== SKILLS =====*/
 .skills__container {
   row-gap: 2rem;
@@ -472,5 +477,11 @@ a {
   .about__container {
     margin-left: 2rem;
     margin-right: 1.5rem;
+  }
+
+  .about__text {
+    margin-left: 2rem;
+    margin-right: 1.5rem;
+    text-align: justify;
   }
 }
